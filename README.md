@@ -119,4 +119,4 @@ This project is for educational purposes only. Amazon's brand name, logo, and im
 ## 📧 Contact
 
 
-Project Link: [https://github.com/yourusername/amazon-clone](https://github.com/yourusername/amazon-clone)
+Project Link: [[https://github.com/yourusername/amazon-clone](https://github.com/yourusername/amazon-clone)]
